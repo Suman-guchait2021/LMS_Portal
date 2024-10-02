@@ -1,0 +1,38 @@
+.CircleTimer{
+  display: flex;
+  flex-wrap: wrap;
+  float: right;
+  font-size: 13px;
+}
+.head {
+    font-family: "Roboto";
+    text-align: center;
+  }
+  
+  .timerwrapper {
+    display: flex;
+    justify-content: center;
+    
+  }
+  
+  .timer {
+    font-family: "Montserrat";
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .text {
+    color: #272424;
+  }
+  
+  .value {
+    font-size: 20px;
+  }
+  
+  .info {
+    max-width: 36px;
+    margin: 15px auto 0;
+    text-align: center;
+    font-size: 16px;
+  }

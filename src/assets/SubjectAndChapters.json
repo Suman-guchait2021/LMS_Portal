@@ -1,0 +1,35 @@
+{
+    "subjects": [
+      {
+        "name": "Physics",
+        "hyperlink": "www.google.com",
+      "color": "cornflowerblue",
+        "chapters": [
+          {
+            "id":1,
+            "title": "Chapter 1"
+          },
+          {
+            "id":1,
+            "title": "Chapter 2"
+          },
+          {
+            "id":1,
+            "title": "Chapter 1"
+          },
+          {
+            "id":1,
+            "title": "Chapter 3"
+          },
+          {
+            "id":1,
+            "title": "Chapter 4"
+          },
+          {
+            "id":1,
+            "title": "Chapter 5"
+          }
+        ]
+      }
+    ]
+  }

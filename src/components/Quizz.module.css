@@ -1,0 +1,51 @@
+.container {
+  background-image: url("D:\Full_Stack\01_Front_End\04_React\My projects\09_LMS_Portal\Lms-portal\src\assets\images\quizz-bg-1.jpg");
+  width: 90%;
+  height: 154vh;
+  /* background-color: blue; */
+}
+.questiontext {
+  color: aliceblue;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  text-align: center;
+  width: 605px;
+  margin-left: 30%;
+  border-radius: 8.5px;
+}
+.option {
+  color: aliceblue;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  text-align: left;
+  width: 605px;
+  height: 315px;
+  margin-left: 30%;
+  font-size: 40px;
+  border-radius: 8.5px;
+}
+.qsPrevButton {
+  font-size: 25px;
+  text-align: right;
+  margin-left: 25px;
+}
+.qsNextButton {
+  font-size: 25px;
+  text-align: right;
+  margin-left: 12px;
+}
+.qsSubmitButton {
+  font-size: 25px;
+  text-align: right;
+  margin-left: 135px;
+}

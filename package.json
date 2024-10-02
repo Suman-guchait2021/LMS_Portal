@@ -1,0 +1,52 @@
+{
+  "name": "react",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/material": "^6.0.2",
+    "@react-login-page/page3": "^1.0.4",
+    "@react-pdf-viewer/core": "^3.12.0",
+    "@react-pdf-viewer/default-layout": "^3.12.0",
+    "@react-pdf/renderer": "^3.4.4",
+    "bootstrap": "^5.3.3",
+    "chart.js": "^4.4.3",
+    "countdown-circle-timer-styled": "^1.0.0",
+    "primereact": "^10.8.3",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.4",
+    "react-calendar": "^5.0.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-countdown-circle-timer": "^3.2.1",
+    "react-date-object": "^2.1.9",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.3.0",
+    "react-pdf": "^9.1.1",
+    "react-pdf-viewer": "^0.1.0",
+    "react-quiz-component": "^0.8.2",
+    "react-router-dom": "^6.26.1",
+    "react-sticky-el": "^2.1.0",
+    "recharts": "^2.12.7",
+    "rsuite": "^5.69.0",
+    "semantic-ui-react": "^2.1.5",
+    "sweetalert2": "^11.13.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.3",
+    "eslint-plugin-react-hooks": "^4.6.2",
+    "eslint-plugin-react-refresh": "^0.4.7",
+    "vite": "^5.3.4"
+  }
+}
